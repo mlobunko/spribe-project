@@ -39,7 +39,7 @@ export const StyledMain = styled.div`
 `;
 StyledMain.displayName = 'StyledMain';
 
-export const StyledContent = styled.div`
+export const StyledContent = styled.main`
   flex-grow: 1;
   display: flex;
   flex-direction: column;
